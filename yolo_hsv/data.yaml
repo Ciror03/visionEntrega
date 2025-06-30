@@ -1,0 +1,7 @@
+path: C:\Users\Ciro\Desktop\cuatri\vision\tps\VisionFinal\yolo_hsv
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+names: ['cow', 'deer', 'horse']
