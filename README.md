@@ -5,4 +5,5 @@ Se implementaron y evaluaron variantes de **YOLOv11** y **Faster R-CNN** sobre u
 
 # Link a los datasets
 https://drive.google.com/drive/folders/1GGi90onNTJUmccUhSB9slHWysAGs6N7P?usp=sharing
+
 Todas las carpetas del drive se corresponden a las carpetas del codigo fuente. La carpeta de yolo_vs_faster_RCNN tiene los modelos para ser cargados.
