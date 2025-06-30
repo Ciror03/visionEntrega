@@ -1,8 +1,0 @@
-Model,Precision,Recall,mAP50,mAP50-95
-fasterrcnn_hst,0.96000,0.96000,0.96283,0.57151
-fasterrcnn_hsv,0.97143,0.90667,0.88495,0.43326
-fasterrcnn_rgb_t,0.92105,0.93333,0.90702,0.48651
-fasterrcnn_rgb,0.91139,0.96000,0.91957,0.47384
-fasterrcnn_t_grayscale,0.88608,0.93333,0.92482,0.54515
-fasterrcnn_t,0.90000,0.96000,0.94426,0.54111
-fasterrcnn_late_fusion,0.82022,0.97333,0.95403,0.55392
